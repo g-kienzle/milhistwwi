@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/g-kienzle/milhistwwi/static/js/main.0591acb7.chunk.js",
+    "main.js.map": "/g-kienzle/milhistwwi/static/js/main.0591acb7.chunk.js.map",
+    "runtime-main.js": "/g-kienzle/milhistwwi/static/js/runtime-main.7629af01.js",
+    "runtime-main.js.map": "/g-kienzle/milhistwwi/static/js/runtime-main.7629af01.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/g-kienzle/milhistwwi/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.0867e5bb.chunk.js": "/g-kienzle/milhistwwi/static/js/2.0867e5bb.chunk.js",
+    "static/js/2.0867e5bb.chunk.js.map": "/g-kienzle/milhistwwi/static/js/2.0867e5bb.chunk.js.map",
+    "static/js/3.f7fdb805.chunk.js": "/g-kienzle/milhistwwi/static/js/3.f7fdb805.chunk.js",
+    "static/js/3.f7fdb805.chunk.js.map": "/g-kienzle/milhistwwi/static/js/3.f7fdb805.chunk.js.map",
+    "index.html": "/g-kienzle/milhistwwi/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/g-kienzle/milhistwwi/static/css/2.20aa2d7b.chunk.css.map",
+    "static/js/2.0867e5bb.chunk.js.LICENSE.txt": "/g-kienzle/milhistwwi/static/js/2.0867e5bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7629af01.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.0867e5bb.chunk.js",
+    "static/js/main.0591acb7.chunk.js"
+  ]
+}
