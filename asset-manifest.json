@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/milhistwwi/static/js/main.aad99fe3.chunk.js",
-    "main.js.map": "/milhistwwi/static/js/main.aad99fe3.chunk.js.map",
+    "main.js": "/milhistwwi/static/js/main.6862573c.chunk.js",
+    "main.js.map": "/milhistwwi/static/js/main.6862573c.chunk.js.map",
     "runtime-main.js": "/milhistwwi/static/js/runtime-main.ef999c9f.js",
     "runtime-main.js.map": "/milhistwwi/static/js/runtime-main.ef999c9f.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/milhistwwi/static/css/2.20aa2d7b.chunk.css",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ef999c9f.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.caf34bac.chunk.js",
-    "static/js/main.aad99fe3.chunk.js"
+    "static/js/main.6862573c.chunk.js"
   ]
 }
